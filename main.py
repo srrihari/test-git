@@ -1,2 +1,2 @@
-print("hellow")
+print("hel")
 print("CoderDas")
