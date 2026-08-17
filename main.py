@@ -1,2 +1,2 @@
-print("helgreg")
+print("hel")
 print("CoderDas")
